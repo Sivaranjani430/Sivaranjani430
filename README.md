@@ -3,7 +3,7 @@
 M.Tech (Integrated) CSE — Cyber Security, VIT Bhopal · Tamil Nadu, India · Open to remote roles</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sivaranjani430"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sivaranjani-d-956176353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sranjani437@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 

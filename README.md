@@ -1,27 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sivaranjani D</h1>
-<h3 align="center">Passionate Cybersecurity Student | Exploring the Digital Fortresses</h3>
+<h1 align="center">Sivaranjani D</h1>
+<p align="center"><b>Cybersecurity & Software Engineer · AI Model Evaluation</b><br/>
+M.Tech (Integrated) CSE — Cyber Security, VIT Bhopal · Tamil Nadu, India · Open to remote roles</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaranjani430&label=Profile%20views&color=0e75b6&style=flat" alt="sivaranjani430" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaranjani430" alt="sivaranjani430" /></a> </p>
-
-- 🔭 I’m currently working on **Intrusion detection in Cloud**
-
-- 🌱 I’m currently learning **Networks and Network Security**
-
-- 📫 How to reach me **sranjani437@gmail.com**
-
-
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sivaranjani-d-3b45971b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sivaranjani-d-3b45971b0" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sivaranjad1td" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sivaranjad1td" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sivaranjani430"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sranjani437@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaranjani430&show_icons=true&locale=en&layout=compact" alt="sivaranjani430" /></p>
+### About me
+- 🎓 Integrated M.Tech in Computer Science & Engineering (Cyber Security), VIT Bhopal — 2025
+- 🛡️ Google Cybersecurity Professional Certificate · EC-Council certified
+- 💼 Former Project Manager Intern at **mDrift Technologies**, Bangalore — product delivery, UI design in Figma, web-app debugging, Power BI reporting
+- 🤖 Evaluate and stress-test AI models on reasoning and technical tasks
+- 🔍 Interests: network security, intrusion detection, cloud security, applied ML
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaranjani430&show_icons=true&locale=en" alt="sivaranjani430" /></p>
+### Featured projects
+| Project | What it does | Stack |
+|---|---|---|
+| [Intrusion Detection in Cloud](https://github.com/Sivaranjani430/Intrusion-Detection-in-Cloud) | ML-based detection of malicious traffic in cloud environments | Python, ML |
+| [Milk Ledger](https://github.com/Sivaranjani430/milk-ledger) | Phone ledger app for a wholesale milk distributor — daily supply, customer balances, payments | JavaScript |
+| AI-based Accident & Theft Detection *(private)* | Computer-vision system that flags accidents and theft from video | Python |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaranjani430&" alt="sivaranjani430" /></p>
+### Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,linux,git,figma&theme=dark" alt="Tech stack"/>
+</p>
+
+**Security:** network security · intrusion detection · Wireshark · Nmap · SIEM fundamentals  
+**Data & tools:** Power BI · scikit-learn · Figma

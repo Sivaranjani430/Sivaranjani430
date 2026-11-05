@@ -19,7 +19,6 @@ M.Tech (Integrated) CSE — Cyber Security, VIT Bhopal · Tamil Nadu, India · O
 ### Featured projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Intrusion Detection in Cloud](https://github.com/Sivaranjani430/Intrusion-Detection-in-Cloud) | ML-based detection of malicious traffic in cloud environments | Python, ML |
 | [Milk Ledger](https://github.com/Sivaranjani430/milk-ledger) | Phone ledger app for a wholesale milk distributor — daily supply, customer balances, payments | JavaScript |
 | AI-based Accident & Theft Detection *(private)* | Computer-vision system that flags accidents and theft from video | Python |
 

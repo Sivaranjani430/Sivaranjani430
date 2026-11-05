@@ -1,5 +1,5 @@
 <h1 align="center">Sivaranjani D</h1>
-<p align="center"><b>Cybersecurity & Software Engineer · AI Model Evaluation</b><br/>
+<p align="center"><b>Cybersecurity · AI Model Red-Teaming & Evaluation</b><br/>
 M.Tech (Integrated) CSE — Cyber Security, VIT Bhopal · Tamil Nadu, India · Open to remote roles</p>
 
 <p align="center">
@@ -10,22 +10,24 @@ M.Tech (Integrated) CSE — Cyber Security, VIT Bhopal · Tamil Nadu, India · O
 ---
 
 ### About me
+- 🤖 **AI Model Red-Teaming & Technical Evaluation Specialist** at Handshake AI (Project Lumiere) — I design image-based technical tasks that expose reasoning failures in frontier LLMs
 - 🎓 Integrated M.Tech in Computer Science & Engineering (Cyber Security), VIT Bhopal — 2025
-- 🛡️ Google Cybersecurity Professional Certificate · EC-Council certified
-- 💼 Former Project Manager Intern at **mDrift Technologies**, Bangalore — product delivery, UI design in Figma, web-app debugging, Power BI reporting
-- 🤖 Evaluate and stress-test AI models on reasoning and technical tasks
-- 🔍 Interests: network security, intrusion detection, cloud security, applied ML
+- 🛡️ Google Cybersecurity Professional Certificate · EC-Council: Digital Forensics for Pentesters, Practical Web Application Penetration Testing
+- 🔍 Focus: penetration testing, vulnerability assessment, intrusion detection, cloud security
 
-### Featured projects
+### Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Milk Ledger](https://github.com/Sivaranjani430/milk-ledger) | Phone ledger app for a wholesale milk distributor — daily supply, customer balances, payments | JavaScript |
-| AI-based Accident & Theft Detection *(private)* | Computer-vision system that flags accidents and theft from video | Python |
+| Intrusion Detection in Cloud Computing | Snort-based intrusion detection for cloud infrastructure | Snort, Cloud |
+| AI-Based Accident & Theft Detection *(private)* | Raspberry Pi crash detection with GPS and SMS alerts, plus face recognition for vehicle access | Python, OpenCV, Twilio API |
+| Authentication Using Keystroke Dynamics | Authenticates users by typing speed, rhythm and keypress timing | Behavioural biometrics |
+| [Milk Ledger](https://github.com/Sivaranjani430/milk-ledger) | Offline, encrypted (AES-256-GCM) ledger app for a milk distributor | JavaScript, Web Crypto |
 
-### Tech stack
+### Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,linux,git,figma&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,js,latex&theme=dark" alt="Tech stack"/>
 </p>
 
-**Security:** network security · intrusion detection · Wireshark · Nmap · SIEM fundamentals  
-**Data & tools:** Power BI · scikit-learn · Figma
+**Security:** Ethical hacking · Penetration testing · Vulnerability assessment · Networking fundamentals · Cloud computing  
+**Tools:** Metasploit · Burp Suite · Wireshark · Nikto · Snort · Kali Linux  
+**AI:** Model evaluation & red-teaming
